@@ -1,4 +1,4 @@
-## AIandDS_1_406A_6
+## AIandDS_S1_406A_6
 ## KLU HACKATHON - GROUP 6  
 ### Team members
 ID|Team Member
